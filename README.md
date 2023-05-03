@@ -1,4 +1,4 @@
-# Simple-Linear-Regression-Assignments
+# Simple-Linear-Regression-Assignments 1
 # Introduction 
 
 Simple Linear Regression is a statistical method used to model the relationship between a dependent variable and a single independent variable. In this project, we will be performing Simple Linear Regression on the Salary_Data.csv dataset to analyze the relationship between an employee's years of experience and their salary.
